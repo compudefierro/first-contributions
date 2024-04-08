@@ -21,9 +21,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 - [Rithvik](https://github.com/ChilivereRithvik)
 - [Edward Kabue] (https://github.com/EdwardKabue)
 - [MANAS JHA] (https://github.com/02Manas-jha)
-git add Contributors.md# Contributors
-
-111111111111111111111111111111111
+- [Jorge Compudefierro] (https://github.com/compudefierro)
 - Kevin Liu
 - [Eric Wang](https://github.com/ewang7421)
 - [Alan Chan] (https://github.com/Chanalan1)
